@@ -1,9 +1,10 @@
 package main
 
 import (
-	"cli-test/cmd"
 	"log"
 	"os"
+
+	"github.com/ericsgagnon/cli-dev/cmd"
 )
 
 func main() {

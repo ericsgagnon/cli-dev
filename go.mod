@@ -1,4 +1,4 @@
-module cli-test
+module github.com/ericsgagnon/cli-dev
 
 go 1.16
 
